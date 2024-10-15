@@ -1,6 +1,6 @@
 # opendocs
 
-## dev perso
+## dev blog perso
 
 > Next.js beautifully designed template that you can use for your projects for free with site, blog and docs support. Accessible. Customizable. Open Source.
 
